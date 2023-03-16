@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-instrumentuploader-dev-160512-authRole",
+      "UnauthRoleArn": "arn:aws:iam::942706091699:role/amplify-instrumentuploader-dev-160512-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::942706091699:role/amplify-instrumentuploader-dev-160512-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-instrumentuploader-dev-160512-deployment",
+      "UnauthRoleName": "amplify-instrumentuploader-dev-160512-unauthRole",
+      "StackName": "amplify-instrumentuploader-dev-160512",
+      "StackId": "arn:aws:cloudformation:eu-west-2:942706091699:stack/amplify-instrumentuploader-dev-160512/560fa7d0-c414-11ed-9b0d-069492c83c1c",
+      "AmplifyAppId": "d3ehtf0o9jga7q"
+    },
+    "categories": {
+      "auth": {
+        "instrumentuploader1fed0e2b": {}
+      },
+      "function": {
+        "S3Trigger4bea66b2": {
+          "deploymentBucketName": "amplify-instrumentuploader-dev-160512-deployment",
+          "s3Key": "amplify-builds/S3Trigger4bea66b2-3934733562486e2f3650-build.zip"
+        }
+      },
+      "storage": {
+        "instrument": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
